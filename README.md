@@ -1,3 +1,3 @@
 # WIRING
 Automatic climate control
-Obstical avoidance robot
+,Obstical avoidance robot
