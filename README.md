@@ -1,0 +1,2 @@
+# WIRING
+Automatic climate control
